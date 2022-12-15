@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5353"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="poster-4.svg">
+  <defs
+     id="defs5347" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-185.71429"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5350">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(2.7918657,0,0,2.7918657,-9.8652556,-277.00882)"
+       id="g4695"
+       inkscape:export-xdpi="958.32825"
+       inkscape:export-ydpi="958.32825">
+      <ellipse
+         ry="32.906643"
+         rx="33.067688"
+         cy="152.4102"
+         cx="41.14283"
+         id="path4679"
+         style="fill:#47b3ff;fill-opacity:1;stroke:none;stroke-width:1.54430556;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(-6.4719202e-7,5.1957931)"
+         id="g4686">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#47b3ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="29.06653"
+           y="166.15741"
+           id="text12-8-9"><tspan
+             sodipodi:role="line"
+             id="tspan10-8-9"
+             x="29.06653"
+             y="166.15741"
+             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold Oblique';fill:#ffffff;fill-opacity:1;stroke:#47b3ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">D</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#47b3ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="16.709024"
+           y="166.14453"
+           id="text12-6"><tspan
+             sodipodi:role="line"
+             id="tspan10-0"
+             x="16.709024"
+             y="166.14453"
+             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold Oblique';fill:#ffffff;fill-opacity:1;stroke:#47b3ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">D</tspan></text>
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.20022845;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4614-2"
+           width="24.0532"
+           height="6.2614703"
+           x="18.36698"
+           y="140.96983" />
+      </g>
+    </g>
+  </g>
+</svg>
